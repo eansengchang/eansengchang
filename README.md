@@ -7,4 +7,4 @@
 
 [Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
 
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eansengchang&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eansengchang&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
