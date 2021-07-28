@@ -6,3 +6,5 @@
 [Neural Network to Categorize basic shapes](https://eansengchang.github.io/Shape-Classifier)
 
 [A* Pathfinding Visualizer](https://eansengchang.github.io/A-star-pathfinding/)
+
+[Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
