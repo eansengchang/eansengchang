@@ -1,6 +1,6 @@
 # Welcome to this profile! nothing much yet...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eansengchang&layout=compact?theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eansengchang&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some cool links I have made though:
 [Neural Network to Categorize basic shapes](https://eansengchang.github.io/Shape-Classifier)
