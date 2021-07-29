@@ -7,8 +7,6 @@
 
 [Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
 
-[Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
-
 [Cool Plinko Simulation using Matter.js](https://eansengchang.github.io/Plinko/)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
