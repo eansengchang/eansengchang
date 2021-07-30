@@ -3,6 +3,8 @@
 ## Some cool links I have made though:
 [Evolution Steering Simulation](https://eansengchang.github.io/Evolution-Steering/)
 
+[Cool Flocking and Fleeing Simulation](https://eansengchang.github.io/Flocking-Simulation/)
+
 [A* Pathfinding Visualizer](https://eansengchang.github.io/A-star-pathfinding/)
 
 [Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
