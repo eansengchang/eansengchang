@@ -9,7 +9,7 @@
 
 [Using particles to make cool fonts](https://eansengchang.github.io/Particle-Font/)
 
-[Cool Plinko Simulation using Matter.js](https://eansengchang.github.io/Plinko/)
+[Using evolution in the travelling salesman problem](https://eansengchang.github.io/Genetic-Salesman-Algorithm/)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eansengchang&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
