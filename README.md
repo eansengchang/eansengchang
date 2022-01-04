@@ -11,9 +11,9 @@
 
 [Using evolution in the travelling salesman problem](https://eansengchang.github.io/Genetic-Salesman-Algorithm/)
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eansengchang&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eansengchang&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ean Seng's github stats" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eansengchang&layout=compact&theme=material-palenight" />
